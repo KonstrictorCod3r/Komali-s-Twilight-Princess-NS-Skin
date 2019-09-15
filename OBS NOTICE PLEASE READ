@@ -1,0 +1,14 @@
+Wazzup my fellow life forms!
+For this to work best, please follow these steps:
+1. In OBS Studio, right click on whatever window capture NintendoSpy/RetroSpy is set to and click filters. 
+2. Click the + and select Chroma Key.
+3. Click on the drop down menu and select Custom
+4. Click Select Color and do one of the following
+	a: Where it says HTML, type #c4ff0e, then click OK
+	b: if you already have NintendoSpy/RetroSpy open, click Pick Screen Color and select the background for the skin, then click OK
+5. Set Similarity to 29, set Smoothness to 279, and Key Color Spill Reduction to 202
+6. Turn on your GameCube/Wii/Gamecube-USB adaptor and have some fun
+NOTE: The Chroma Key is not perfect, however please change it if you feel you can make it better!
+
+Thanks
+Komali
